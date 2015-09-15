@@ -1,0 +1,9 @@
+{
+  "name":"leaderboard",
+  "description":"",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "mongolab"
+  ]
+}
